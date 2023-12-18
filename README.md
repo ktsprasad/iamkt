@@ -13,4 +13,4 @@ How To Use
 From your command line, clone and run developerFolio:
 
 # Clone this repository
-git clone https://github.com/saadpasta/iamkt.git
+git clone https://github.com/ktsprasad/iamkt.git
